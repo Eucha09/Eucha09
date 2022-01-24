@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Euichan Jeong! 👋
 
 <!--
 **Eucha09/Eucha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱Starting as a hobby, I am now dreaming of becoming a developer.   
+✨Someday, I want to invite you to the world I created.
