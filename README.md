@@ -1,4 +1,4 @@
-### Hi, I'm Euichan Jeong! 👋
+## Hi, I'm Euichan Jeong! 👋
 
 <!--
 **Eucha09/Eucha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euchan09&show_icons=true&theme=radical)
+### My Footsteps 🖌
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=define_chan)](https://solved.ac/define_chan)
