@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 <a href="https://eucha09.github.io/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=내링크"/></a>
 <img src="https://img.shields.io/badge/euchan5791@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   
 
-🌱Starting as a hobby, I am now dreaming of becoming a developer.   
-👯Someday, I want to invite you to the world I created.
+Hello😄, I'm currently majoring in software at Ajou University.   
+I really like studying game development and algorithms.
+
+I started as a hobby and now I dream of becoming a programmer.   
+Someday, I want to invite you to the world I created.
 
 ### 🛠 Tech Stack
 
