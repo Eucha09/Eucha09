@@ -37,8 +37,3 @@ Someday, I want to invite you to the world I created.
 ### ✨ Activity
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=define_chan)](https://solved.ac/define_chan)
-
-### 🖌 Learn
-
-#### 서버(Server)
-* [멀티쓰레드 프로그래밍(Multi-thread programming)](https://eucha09.github.io/categories/%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%93%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-multi-thread-programming/)
