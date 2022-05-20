@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://eucha09.github.io/"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white&link=내링크"/></a>
 <img src="https://img.shields.io/badge/euchan5791@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>   
 
 Hello😄, I'm currently majoring in software at Ajou University.   
