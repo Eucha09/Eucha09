@@ -37,4 +37,5 @@ Someday, I want to invite you to the world I created.
 
 ### ✨ Activity
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=define_chan)](https://solved.ac/define_chan)
+[![eujeong's 42 stats](https://badge42.vercel.app/api/v2/cl749fcce00060gkzwm6z3n94/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=define_chan)](https://solved.ac/define_chan)  
